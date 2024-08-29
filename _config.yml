@@ -18,6 +18,7 @@ subtitle: PhD Candidate in Mathematics
 email: contact@michaelliefsoens.be
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://michaelliefsoens.be" # the base hostname & protocol for your site, e.g. http://example.com
+enforce_ssl: "michaelliefsoens.be"
 
 author: Michael
 
