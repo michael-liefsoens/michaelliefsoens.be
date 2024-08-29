@@ -6,7 +6,7 @@ layout: splash
 
 header:
   image: /assets/images/mont_sint_michel.jpeg
-  caption: "Mont Sint Michaël"
+  caption: "St Michaël's Mount (Mont-Saint-Michel)"
   teaser: /assets/images/mont_sint_michel.jpeg
 
 
