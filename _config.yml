@@ -17,7 +17,7 @@ title: Michaël Liefsoens
 subtitle: PhD Candidate in Mathematics
 email: liefsoens_michael@hotmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "michaelliefsoens.be" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://michaelliefsoens.be" # the base hostname & protocol for your site, e.g. http://example.com
 
 author: Michael
 
