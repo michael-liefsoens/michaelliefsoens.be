@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Michaël Liefsoens
 subtitle: PhD Candidate in Mathematics
-email: liefsoens_michael@hotmail.com
+email: contact@michaelliefsoens.be
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://michaelliefsoens.be" # the base hostname & protocol for your site, e.g. http://example.com
 
