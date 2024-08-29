@@ -28,6 +28,8 @@ search: true
 atom_feed:
   hide: true
 
+include: ["_pages"]
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
