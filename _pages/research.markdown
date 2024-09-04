@@ -19,6 +19,15 @@ My mathematical research interests include, but are not limited to, the differen
 
 
 
+<h2> Publications and preprints </h2>
+<hr/>
+
+<h3> Physics </h3>
+<hr/>
+<ol>
+  <li> M. Liefsoens, T. Földes, M. Barbi (2024). <em>  Spectral-based detection of chromatin loops in multiplexed super-resolution FISH data </em>. Nature communications  <br> <a href="https://www.nature.com/articles/s41467-024-51650-w">Available here (open acces) </a> </li>
+</ol>
+
 
 
 

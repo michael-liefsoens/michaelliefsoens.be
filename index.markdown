@@ -17,6 +17,9 @@ feature_row:
   - image_path: /assets/images/graduation.jpeg
     excerpt: "Graduated as master of mathematics and master of physics, June 2023 <br />
     [Learn More](/CV){: .btn .btn--inverse } "
+  - image_path: /assets/images/cover_image_feature.jpg
+    excerpt: "First publication (Nature communications, 2024) <br /> <br />
+    [Learn More](/research){: .btn .btn--inverse}"
 ---
 
 
