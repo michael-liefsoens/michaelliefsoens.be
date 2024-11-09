@@ -25,9 +25,14 @@ My mathematical research interests include, but are not limited to, the differen
 <h3> Physics </h3>
 <hr/>
 <ol>
-  <li> M. Liefsoens, T. Földes, M. Barbi (2024). <em>  Spectral-based detection of chromatin loops in multiplexed super-resolution FISH data </em>. Nature communications  <br> <a href="https://www.nature.com/articles/s41467-024-51650-w">Available here (open acces) </a> </li>
+  <li> M. Liefsoens, T. Földes, M. Barbi (2024). <em>  Spectral-based detection of chromatin loops in multiplexed super-resolution FISH data.</em> Nature communications  <br> <a href="https://www.nature.com/articles/s41467-024-51650-w">Available here (open acces) </a> </li>
 </ol>
 
+<h3> Mathematics </h3>
+<hr/>
+<ol>
+  <li> M. Anarella, M. Liefsoens (2024). <em>  Isometry groups of nearly Kähler manifolds.</em> Preprint. </li>
+</ol>
 
 
 
