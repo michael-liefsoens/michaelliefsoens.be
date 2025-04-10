@@ -24,15 +24,17 @@ My mathematical research interests include, but are not limited to, the differen
 
 <h3> Physics </h3>
 <hr/>
-<ol>
+<ul>
   <li> M. Liefsoens, T. Földes, M. Barbi (2024). <em>  Spectral-based detection of chromatin loops in multiplexed super-resolution FISH data.</em> Nature communications  <br> <a href="https://www.nature.com/articles/s41467-024-51650-w">Available here (open acces) </a> </li>
-</ol>
+</ul>
 
 <h3> Mathematics </h3>
 <hr/>
-<ol>
-  <li> M. Anarella, M. Liefsoens (2024). <em>  Isometry groups of nearly Kähler manifolds.</em> Preprint. </li>
-</ol>
+<ul>
+  <li> M. Liefsoens, H. Ma, L. Vrancken (2025). <em>  Classification results for totally real surfaces of nearly Kähler ℂP³. </em> Preprint. <a href="https://arxiv.org/abs/2504.07035">Available here </a> </li>
+  <li> M. Liefsoens (2025). <em>  Hypersurfaces of any homogeneous ℂP³. </em> Preprint. <a href="https://arxiv.org/abs/2503.08871">Available here </a></li>
+  <li> M. Anarella, M. Liefsoens (2024). <em>  Isometry groups of nearly Kähler manifolds.</em> Preprint. <a href="https://arxiv.org/abs/2411.05675">Available here </a> </li>
+</ul>
 
 
 
