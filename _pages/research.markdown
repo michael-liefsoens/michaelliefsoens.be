@@ -32,7 +32,7 @@ My mathematical research interests include, but are not limited to, the differen
 <hr/>
 <ul>
   <li> M. Liefsoens, H. Ma, L. Vrancken. <em> Classification results for totally real surfaces of nearly Kähler ℂP³. </em> Accepted in Journal of Geometry and Physics (2025). <br> <a href="https://arxiv.org/abs/2504.07035">Available here </a> </li>
-  <li> M. Liefsoens. <em> A note on Levi-flat hypersurface in ℂP³. </em> Accepted in Romanian journal of Mathematics and Computer science, conference proceedings (2025). </li>
+  <li> M. Liefsoens. <em> A note on Levi-flat hypersurfaces in ℂP³. </em> Accepted in Romanian journal of Mathematics and Computer science, conference proceedings (2025). </li>
   <li> M. Liefsoens. <em>  Hypersurfaces of any homogeneous ℂP³. </em> Preprint. <br> <a href="https://arxiv.org/abs/2503.08871">Available here </a></li>
   <li> M. Anarella, M. Liefsoens. <em>  Isometry groups of nearly Kähler manifolds.</em> Results in Mathematics <b>80</b>, 145 (2025). <br> <a href="https://doi.org/10.1007/s00025-025-02458-7">Available here </a> </li>
 </ul>
