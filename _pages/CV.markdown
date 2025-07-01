@@ -44,8 +44,9 @@ header:
 I have been a teaching assistant for the following courses. 
 <ul>
 	<li> Meetkunde II (Geometry 2) 3rd bachelor of Mathematics (2023-) </li>
-	<li> Wiskunde I (Mathematics 1) 1st bachelor of Bio-engeneering (2023-) </li>
-	<li> Wiskunde II (Mathematics 2) 1st bachelor of biochemistry and biotechnology; chemistry; geology  (2023-) </li>
+	<li> Lineare algebra (Linear algebra) 1st bachelor of Mathematics (2024-) </li>
+	<li> Wiskunde I (Mathematics 1) 1st bachelor of Bio-engeneering (2023-2024) </li>
+	<li> Wiskunde II (Mathematics 2) 1st bachelor of biochemistry and biotechnology; chemistry; geology  (2023-2024) </li>
 </ul>
 
 I was daily supervisor for the following master students with their master thesis.

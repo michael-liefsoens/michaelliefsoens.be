@@ -25,15 +25,16 @@ My mathematical research interests include, but are not limited to, the differen
 <h3> Physics </h3>
 <hr/>
 <ul>
-  <li> M. Liefsoens, T. Földes, M. Barbi (2024). <em>  Spectral-based detection of chromatin loops in multiplexed super-resolution FISH data.</em> Nature communications  <br> <a href="https://www.nature.com/articles/s41467-024-51650-w">Available here (open acces) </a> </li>
+  <li> M. Liefsoens, T. Földes, M. Barbi. <em>  Spectral-based detection of chromatin loops in multiplexed super-resolution FISH data.</em> Nature communications <b>15</b>, 7670 (2024).  <br> <a href="https://www.nature.com/articles/s41467-024-51650-w">Available here (open acces) </a> </li>
 </ul>
 
 <h3> Mathematics </h3>
 <hr/>
 <ul>
-  <li> M. Liefsoens, H. Ma, L. Vrancken (2025). <em>  Classification results for totally real surfaces of nearly Kähler ℂP³. </em> Preprint. <a href="https://arxiv.org/abs/2504.07035">Available here </a> </li>
-  <li> M. Liefsoens (2025). <em>  Hypersurfaces of any homogeneous ℂP³. </em> Preprint. <a href="https://arxiv.org/abs/2503.08871">Available here </a></li>
-  <li> M. Anarella, M. Liefsoens (2024). <em>  Isometry groups of nearly Kähler manifolds.</em> Preprint. <a href="https://arxiv.org/abs/2411.05675">Available here </a> </li>
+  <li> M. Liefsoens, H. Ma, L. Vrancken. <em> Classification results for totally real surfaces of nearly Kähler ℂP³. </em> Accepted in Journal of Geometry and Physics (2025). <br> <a href="https://arxiv.org/abs/2504.07035">Available here </a> </li>
+  <li> M. Liefsoens. <em> A note on Levi-flat hypersurface in ℂP³. </em> Accepted in Romanian journal of Mathematics and Computer science, conference proceedings (2025). </li>
+  <li> M. Liefsoens. <em>  Hypersurfaces of any homogeneous ℂP³. </em> Preprint. <br> <a href="https://arxiv.org/abs/2503.08871">Available here </a></li>
+  <li> M. Anarella, M. Liefsoens. <em>  Isometry groups of nearly Kähler manifolds.</em> Results in Mathematics <b>80</b>, 145 (2025). <br> <a href="https://doi.org/10.1007/s00025-025-02458-7">Available here </a> </li>
 </ul>
 
 
@@ -42,6 +43,7 @@ My mathematical research interests include, but are not limited to, the differen
 <hr/>
 
 <ul>
+  <li> May 24, 2025, Bucharest, Romania  <br> Title: <i>Fundamentals of Nearly Kähler ℂP³: Curvature, Isometries and Hypersurfaces</i> <br>  This talk was part of the RIGA conference.</li>
   <li> June 4, 2024, Nankai University, Tianjin, P.R. China <br> Title: <i>Fundamentals of nearly Kähler ℂP³: curvature, isometries and submanifolds</i> </li>
   <li> May 31, 2024, Tsinghua University, Beijing, P.R. China  <br> Title: <i>Fundamentals of nearly Kähler ℂP³: curvature, isometries and submanifolds</i> </li>
   <li> July 13, 2023, KU Leuven, Leuven, Belgium  <br> Title: <i>Nearly Kähler ℂP³: from the Hopf fibration to Lagrangian submanifolds</i> <br>  This talk was part of the conference Padge.</li>
