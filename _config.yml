@@ -66,6 +66,9 @@ footer:
       - label: "GitHub"
         icon: "fab fa-fw fa-github"
         url: "https://github.com/michael-liefsoens"
+      - label: "Google scholar"
+        icon: "fa-brands fa-google-scholar"
+        url: "https://scholar.google.com/citations?user=fqufnjEAAAAJ&hl=nl&oi=sra"
 
 defaults:
   -
