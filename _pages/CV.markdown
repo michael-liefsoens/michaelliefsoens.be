@@ -33,6 +33,7 @@ header:
 
 <h2> Experiences abroad </h2>
 <ul>
+	<li> Research stay at La Sapienza, University of Rome (Rome - Italy, 2025: three months) </li>
 	<li> Research stay at Tsinghua University (Beijing - P.R. China, 2024: two weeks) </li>
 	<li> Erasmus exchange to Sorbonne University (Paris - France, 2022-2023: nine months) <br/> In the context of masters of science in mathematics and physics. Joint master thesis physics Sorbonne University and KU Leuven. </li>
 	<li> Exchange to University of Toronto (Toronto - Canada, 2021: four months) <br/> Online exchange due to Covid-19 pandemic. </li>
