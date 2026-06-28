@@ -34,7 +34,7 @@ header:
 <h2> Experiences abroad </h2>
 <ul>
 	<li> European school of differential geometry (L'Aquila - Italy, 2026: two weeks) </li>
-	<li> Research stay at Hokaido University (Sapporo - Japan, 2026: one week) </li>
+	<li> Research stay at Hokkaido University (Sapporo - Japan, 2026: one week) </li>
 	<li> Research stay at Tsinghua University (Beijing - P.R. China, 2026: two weeks) </li>
 	<li> Research stay at La Sapienza, University of Rome (Rome - Italy, 2025: three months) </li>
 	<li> Research stay at Tsinghua University (Beijing - P.R. China, 2024: two weeks) </li>
