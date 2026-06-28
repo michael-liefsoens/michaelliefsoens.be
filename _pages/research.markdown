@@ -43,6 +43,10 @@ My mathematical research interests include, but are not limited to, the differen
 <hr/>
 
 <ul>
+  <li> June 4, 2026, Tsinghua University, Beijing, P.R. China  <br> Title: <i>Totally real geometry and the Nearly Kähler ℂP³</i> </li>
+  <li> May 30, 2026, Hokkaido University, Sapporo, Japan <br> Title: <i>Totally real geometry and the Nearly Kähler ℂP³</i> This talk was part of the first Sapporo-Leuven
+Geometry Colloquium. </li>
+  <li> March 28, 2026, Boston, USA  <br> Title: <i> Totally real geometry of the Nearly Kähler ℂP³ </i> <br>  I was an invited speaker at the AMS special session.</li>
   <li> May 24, 2025, Bucharest, Romania  <br> Title: <i>Fundamentals of Nearly Kähler ℂP³: Curvature, Isometries and Hypersurfaces</i> <br>  This talk was part of the RIGA conference.</li>
   <li> June 4, 2024, Nankai University, Tianjin, P.R. China <br> Title: <i>Fundamentals of nearly Kähler ℂP³: curvature, isometries and submanifolds</i> </li>
   <li> May 31, 2024, Tsinghua University, Beijing, P.R. China  <br> Title: <i>Fundamentals of nearly Kähler ℂP³: curvature, isometries and submanifolds</i> </li>
