@@ -31,6 +31,7 @@ My mathematical research interests include, but are not limited to, the differen
 <h3> Mathematics </h3>
 <hr/>
 <ul>
+  <li> M. Liefsoens, J. Van der Veken. <em>  Curvature and Lagrangian submanifolds of the homogeneous nearly Kähler ℂP³. </em> Differential geometry and its aplications (2026). <br> <a href="https://doi.org/10.1016/j.difgeo.2026.102426">Available here </a></li>
   <li> M. Liefsoens. <em>  Hypersurfaces of any homogeneous ℂP³. </em> Annali di Matematica (2025). <br> <a href="https://doi.org/10.1007/s10231-025-01605-9">Available here </a></li>
   <li> M. Liefsoens, H. Ma, L. Vrancken. <em> Classification results for totally real surfaces of nearly Kähler ℂP³. </em> Journal of Geometry and Physics <b>216</b>, 105574 (2025). <br> <a href="https://doi.org/10.1016/j.geomphys.2025.105574">Available here </a> </li>
   <li> M. Liefsoens. <em> A note on Levi-flat hypersurfaces in ℂP³. </em> Romanian journal of Mathematics and Computer science, conference proceedings <b>15</b>, 2, pages 11-17 (2025). </li>
