@@ -4,9 +4,9 @@ title:  "Teaching"
 permalink: "/teaching"
 
 header:
-  image: /assets/images/ray_toronto_acquarium.JPEG
+  image: /assets/images/ray_toronto_acquarium.jpeg
   caption: "Ripley's Aquarium of Canada, Toronto"
-  teaser: /assets/images/ray_toronto_acquarium.JPEG
+  teaser: /assets/images/ray_toronto_acquarium.jpeg
 ---
 
 Teaching is, for me, the other half of doing mathematics: finding the picture or the question that makes an idea click for someone else.

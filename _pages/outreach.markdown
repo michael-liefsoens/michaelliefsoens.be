@@ -4,9 +4,9 @@ title:  "Outreach"
 permalink: "/outreach"
 
 header:
-  image: /assets/images/NY_skyline.JPEG
+  image: /assets/images/NY_skyline.jpeg
   caption: "New York City"
-  teaser: /assets/images/NY_skyline.JPEG
+  teaser: /assets/images/NY_skyline.jpeg
 ---
 
 The core idea of my research, understanding a curved space through the shapes that live inside it, can be explained without formulas.
