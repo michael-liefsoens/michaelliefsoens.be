@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Curiculum Vitae"
+title:  "Curriculum Vitae"
 permalink: "/CV"
 
 header:
@@ -11,6 +11,7 @@ header:
 
 <h2> Prizes </h2>
 <ul>
+	<li> Best Teaching Assistant Award in Mathematics (KU Leuven, 2025) </li>
 	<li> Prize for best master thesis (Belgian Physical Society, 2024) </li>
 	<li> Prize for best master thesis (master of physics, KU Leuven, 2023) </li>
 </ul>
@@ -37,6 +38,7 @@ header:
 	<li> Research stay at Hokkaido University (Sapporo - Japan, 2026: one week) </li>
 	<li> Research stay at Tsinghua University (Beijing - P.R. China, 2026: two weeks) </li>
 	<li> Research stay at La Sapienza, University of Rome (Rome - Italy, 2025: three months) </li>
+	<li> Research stay at Sorbonne University (Paris - France, 2025: one week) </li>
 	<li> Research stay at Tsinghua University (Beijing - P.R. China, 2024: two weeks) </li>
 	<li> Erasmus exchange to Sorbonne University (Paris - France, 2022-2023: nine months) <br/> In the context of masters of science in mathematics and physics. Joint master thesis physics Sorbonne University and KU Leuven. </li>
 	<li> Exchange to University of Toronto (Toronto - Canada, 2021: four months) <br/> Online exchange due to Covid-19 pandemic. </li>
@@ -48,8 +50,8 @@ header:
 I have been a teaching assistant for the following courses. 
 <ul>
 	<li> Meetkunde II (Geometry 2) 3rd bachelor of Mathematics (2023-) </li>
-	<li> Lineare algebra (Linear algebra) 1st bachelor of Mathematics (2024-) </li>
-	<li> Wiskunde I (Mathematics 1) 1st bachelor of Bio-engeneering (2023-2024) </li>
+	<li> Lineaire algebra (Linear algebra) 1st bachelor of Mathematics (2024-) </li>
+	<li> Wiskunde I (Mathematics 1) 1st bachelor of Bio-engineering (2023-2024) </li>
 	<li> Wiskunde II (Mathematics 2) 1st bachelor of biochemistry and biotechnology; chemistry; geology  (2023-2024) </li>
 </ul>
 
@@ -58,8 +60,20 @@ I was daily supervisor for the following master students with their master thesi
 	<li> Andreas Vermeiren (2023-2024) </li>
 </ul>
 
+I mentored the following bachelor student in research.
+<ul>
+	<li> R. Steeno (2025): one year of one-to-one teaching in differential and Riemannian geometry, followed by joint research </li>
+</ul>
 
+More on my teaching: see <a href="/teaching">Teaching</a>.
 
+<h2> Service </h2>
+<ul>
+	<li> Representative of the assisting academic staff in the Permanent Education Council for Mathematics, KU Leuven (2023-present) </li>
+	<li> Moderator of the yearly infoday panel for prospective students, KU Leuven (2022-present) </li>
+	<li> Referee for Contemporary Mathematics (AMS) and International Electronic Journal of Geometry (2024) </li>
+	<li> Reviewer for Mathematical Reviews (AMS, 2026-present) </li>
+</ul>
 
-
-
+<h2> Publications and talks </h2>
+See <a href="/research">Research</a>.

@@ -1,0 +1,7 @@
+---
+BUNDLE_BUILD__HTTP_PARSER__RB: "--with-cflags=-Wno-error=implicit-function-declaration -Wno-error=incompatible-function-pointer-types -Wno-error=int-conversion"
+BUNDLE_BUILD__RACC: "--with-cflags=-Wno-error=implicit-function-declaration -Wno-error=incompatible-function-pointer-types -Wno-error=int-conversion"
+BUNDLE_BUILD__JSON: "--with-cflags=-Wno-error=implicit-function-declaration -Wno-error=incompatible-function-pointer-types -Wno-error=int-conversion"
+BUNDLE_BUILD__FFI: "--with-cflags=-Wno-error=implicit-function-declaration -Wno-error=incompatible-function-pointer-types -Wno-error=int-conversion"
+BUNDLE_BUILD__SASSC: "--with-cflags=-Wno-error=implicit-function-declaration -Wno-error=incompatible-function-pointer-types -Wno-error=int-conversion"
+BUNDLE_BUILD__EVENTMACHINE: "--with-cflags=-Wno-error=implicit-function-declaration -Wno-error=incompatible-function-pointer-types -Wno-error=int-conversion"

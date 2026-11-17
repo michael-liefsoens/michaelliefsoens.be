@@ -14,11 +14,11 @@ feature_row:
   - image_path: /assets/images/fwo_logo.jpeg
     excerpt: "Funded by the FWO - Fonds wetenschappelijk onderzoek Vlaanderen. <br />
     [Learn More](/awards){: .btn .btn--inverse }"
-  - image_path: /assets/images/graduation.jpeg
-    excerpt: "Graduated as master of mathematics and master of physics, June 2023 <br />
-    [Learn More](/CV){: .btn .btn--inverse } "
+  - image_path: /assets/images/hopf_fibration.jpg
+    excerpt: "Single-author paper: Hypersurfaces of any homogeneous ℂP³ (Annali di Matematica Pura ed Applicata, 2026) <br />
+    [Learn More](/research){: .btn .btn--inverse } "
   - image_path: /assets/images/cover_image_feature.jpg
-    excerpt: "First publication (Nature communications, 2024) <br /> <br />
+    excerpt: "Interdisciplinary research: chromatin loops in DNA (Nature Communications, 2024) <br />
     [Learn More](/research){: .btn .btn--inverse}"
 ---
 
